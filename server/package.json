@@ -1,0 +1,30 @@
+{
+  "name": "diskud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/23-2-Project/Diskud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/23-2-Project/Diskud/issues"
+  },
+  "homepage": "https://github.com/23-2-Project/Diskud#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.22.6",
+    "@babel/core": "^7.22.8",
+    "@babel/node": "^7.22.6",
+    "@babel/preset-env": "^7.22.7",
+    "nodemon": "^2.0.22"
+  }
+}
